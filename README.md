@@ -1,4 +1,4 @@
-# Hey there, I'm DR2929 👋
+# Hey there, I'm Deepika 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DR2929&color=blueviolet&style=flat-square)
 
@@ -28,7 +28,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DR2929&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DR2929&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 

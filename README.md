@@ -53,7 +53,7 @@
 ## 📫 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-DR2929-181717?style=for-the-badge&logo=github)](https://github.com/DR2929)
-[![LinkedIn](https://img.shields.io/badge/GitHub-DR2929-181717?style=for-the-badge&logo=LinkedIn)](https://github.com/DR2929)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepikareddymadduri)
 
 ---
 

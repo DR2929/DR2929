@@ -7,7 +7,7 @@
 ## 🤖 About Me
 
 - 🧠 Building at the intersection of **AI & Software Engineering**
-- 🛠️ I design and ship intelligent systems — from idea to deployment
+- 🛠️ I design and ship intelligent systems from idea to deployment
 - 🔍 Obsessed with making AI actually *work* in production
 - 🌱 Currently exploring LLMs, agents, and ML pipelines
 - ⚡ Fun fact: I debug models the same way I debug code — with too much coffee ☕
